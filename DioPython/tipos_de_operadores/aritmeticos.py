@@ -1,4 +1,4 @@
-#Adição, subtração e divisão 
+#Adição, subtração e multiplicação
 
 print(1 + 1)
 
